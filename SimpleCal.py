@@ -1,5 +1,4 @@
 import tkinter as tk
-from turtle import end_fill
 
 root = tk.Tk()
 E1 = tk.Entry(root, width=25)
